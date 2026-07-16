@@ -1,0 +1,12 @@
+{
+  "Author": "Senvoxia",
+  "Name": "Fira",
+  "Punchline": "Fire off a configured list of commands on demand.",
+  "Description": "Fira registers /fira with subcommands run, list, and config. /fira run fires your configured, ordered command list once, on demand — no timers, no auto-repeat.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "macro",
+    "commands",
+    "utility"
+  ]
+}
